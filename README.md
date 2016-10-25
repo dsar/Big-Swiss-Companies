@@ -1,4 +1,4 @@
-g Swiss Companies
+# Big Swiss Companies
 ---------------------
 ## A survey on four Big Swiss Companies
 Lausanne, April 2016
